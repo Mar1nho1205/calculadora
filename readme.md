@@ -1,1 +1,3 @@
-# Projeto Calculadora
+# Projeto Calculadora Científica
+
+criado por Jonatas Nicacio
